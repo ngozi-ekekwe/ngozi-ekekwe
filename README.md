@@ -12,6 +12,8 @@ Pronouns: She / Her
 
 Fun fact: I love dance, music and going to new places by train :D
 
+[![Ngozi's github stats](https://github-readme-stats.vercel.app/api?username=ngozi-ekekwe)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ngozi-ekekwe/ngozi-ekekwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
