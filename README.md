@@ -10,7 +10,7 @@ How to reach me?  email: rose.ekekwe@gmail.com, twitter: ngozi-ekekwe
 
 Pronouns: She / Her
 
-Fun fact: I love dance, music and going to new places by train :D
+
 
 [![Ngozi's github stats](https://github-readme-stats.vercel.app/api?username=ngozi-ekekwe)](https://github.com/anuraghazra/github-readme-stats)
 
